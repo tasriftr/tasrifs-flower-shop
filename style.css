@@ -157,6 +157,7 @@ padding-bottom: 90px;
 padding-top: 90px;
 align-content: center;
 align-items: center;
+border-radius: 8px;
 }
 
 .support-items-group{
@@ -205,7 +206,7 @@ color: #E55473;
 .btn{
     padding: 20px 43px 20px 43px;
     background-color:#E55473;
-    border-radius: 10px;
+    border-radius: 8px;
     border: none;
     margin-top: 32px;
     color: white;
@@ -216,7 +217,7 @@ color: #E55473;
 .btn2{
     padding: 20px 43px 20px 43px;
     background-color:#E55473;
-    border-radius: 10px;
+    border-radius: 8px;
     border: none;
     color: white;
     font-size: 20px;
