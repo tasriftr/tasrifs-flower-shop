@@ -1,0 +1,301 @@
+*{
+    font-family: 'Lato', sans-serif;
+    padding: 0%;
+    margin: 0%;
+}
+ul {
+    list-style-type: none;
+    
+    padding-left: 145px;
+    display: flex;
+    background-color: black;
+  }
+
+  li{
+    padding: 50px 50px 50px 0;
+
+  }
+  a{
+    color: white;
+    font-size: 25px;
+    text-decoration: none;
+  }
+
+  a:hover{
+    color: #E55473;
+  }
+
+.first-section{
+    display: flex;
+    background-color:#e5547317 ;
+    width: 100%;
+    height: 850px;
+
+}
+
+.f-left{
+    width: 708px;
+    height: 506px;
+    margin-left: 240px;
+    margin-top: 197px;
+
+}
+.f-el{
+    padding-bottom: 32px;
+}
+
+h1{
+font-size: 80px;
+font-weight: bolder;
+}
+p{
+    font-size: 18px;
+}
+h4{
+    font-weight:900;
+    font-size: 40px;
+    margin-bottom: 38px;
+}
+h5{
+    margin-top: 32px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.f-right{
+margin-top: 50px;
+}
+
+.f-right img{
+    width: 635px;
+    height: 800px;
+}
+
+.featured{
+    height: 1091px;
+}
+
+
+
+.featured-text{
+    margin-top: 178px;
+    text-align: center;
+}
+
+.featured-cat{
+    display: flex;
+    margin-top: 48px;
+    margin-left: 240px;
+    
+}
+
+.cat-main{
+    height: 604px;
+    display: block;
+    align-items: center;
+    text-decoration: underline;
+    text-align: center;
+    margin: 12px;
+
+}
+
+.cat-box1{
+    height: 538px;
+    width: 464px;
+    background-color: #a721623a;
+    border-radius: 50% 50% 0% 0%;
+    text-align: center;
+    align-items: center;
+    
+}
+
+.cat-box1 img{
+    margin-bottom: 0%;
+    margin-top: 110px;
+}
+
+.cat-box2{
+    height: 538px;
+    width: 464px;
+    background-color: #0598a015;
+    border-radius: 50% 50% 0% 0%;
+    text-align: center;
+    align-items: center;
+    
+}
+
+.cat-box2 img{
+    margin-bottom: 0%;
+    margin-top: 110px;
+}
+
+.cat-box3{
+    height: 538px;
+    width: 464px;
+   
+    background-color: #477d1115;
+    border-radius: 50% 50% 0% 0%;
+    text-align: center;
+    align-items: center;
+    
+}
+
+.cat-box3 img{
+    margin-bottom: 0%;
+    margin-top: 67px;
+}
+
+.support{
+
+
+background-color: #27272711;
+margin-left: 240px;
+margin-right: 240px;
+padding-left: 170px;
+padding-right: 170px;
+padding-bottom: 90px;
+padding-top: 90px;
+align-content: center;
+align-items: center;
+}
+
+.support-items-group{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+
+}
+
+.support-element{
+    text-align: center;
+    align-content: center;
+}
+
+.support-element p{
+    margin-top: 30px;
+    margin: 30px 26px 0 26px;
+    font-size: 24px;
+    font-weight: bold;
+    
+}
+
+.deals{
+    margin-top: 128px;
+    background-color: #e554730d;
+    padding: 100px 429px 100px 404px;
+   
+}
+
+.deals-elements{
+    display: flex;
+    
+}
+
+.deals-left{
+    display: block;
+    text-align: center;
+    padding-top: 130px;
+}
+
+.pink-font{
+color: #E55473;
+}
+
+.btn{
+    padding: 20px 43px 20px 43px;
+    background-color:#E55473;
+    border-radius: 10px;
+    border: none;
+    margin-top: 32px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.btn2{
+    padding: 20px 43px 20px 43px;
+    background-color:#E55473;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.deals-right{
+    margin-left: 186px;
+}
+
+.deals-right img{
+    width: 318px;
+    height: 420px;
+    
+}
+
+.insta-text{
+    text-align: center;
+    margin-top: 128px;
+}
+
+.insta-pic{
+    margin-top: 48px;
+    margin-left: 228px;
+    display: flex;
+    
+}
+
+.insta-pic-box{
+    width: 342px;
+    height: 396px;
+    margin: 0px 12px 0px 12px;
+}
+
+.insta-bottom{
+    margin-top: 128px;
+    margin-left: 240px;
+    margin-right: 240px;
+    text-align: center;
+    padding-top: 122px;
+    padding-bottom: 122px;
+    padding-left: 287px;
+    padding-right: 287px;
+    background-image: url("/FlowerAsset/Rectangle\ 9.png");
+    background-repeat: no-repeat;
+}
+
+form{
+    display: flex;
+    margin-top: 48px;
+
+}
+::placeholder {
+    padding-left: 20px;
+  }
+
+
+input{
+    width: 700px;
+    height: 60px;
+    border-radius: 10px;
+    margin-right: 10px;
+    border: none;
+}
+
+footer{
+    margin-top: 128px;
+    display: block;
+    background-color: black;
+    text-align: center;
+    padding-top: 128px;
+    padding-bottom: 128px;
+}
+
+footer p{
+    color: white;
+    margin-top: 24px;
+}
+
+.footer-bottom{
+    color: rgba(255, 255, 255, 0.402);
+}
